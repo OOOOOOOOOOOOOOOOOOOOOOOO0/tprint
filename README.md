@@ -20,5 +20,11 @@ pip install git+https://github.com/execution/C0mptCrypt
 ```python
 from tprint import *
 
-tprint(tprint.RED, "hello i'm c0mpt0", 7
+tprint(tprint.RED, "tprint is dope XD", 7)
+```
+**Extras**
+```
+tprint.RED is the colour of the string.
+"tprint is dope XD" is the string.
+7 is the speed of the text.
 ```
