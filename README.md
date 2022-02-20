@@ -1,5 +1,4 @@
 <h1 align="center">
-	<img src="https://www.nicepng.com/png/full/395-3955868_security-shield-lock-icon.png" width="150px"><br>
     tprint - Print letters, by letter.
 </h1>
 <p align="center">
