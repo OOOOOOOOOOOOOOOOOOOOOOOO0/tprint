@@ -1,4 +1,4 @@
-from tprint.main import tprint
+from tprint.tprint import tprint
 
 # __init__.py
 # Author: execution
