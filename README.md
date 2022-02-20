@@ -1,5 +1,5 @@
 <h1 align="center">
-    tprint - Print letters, by letter.
+    tprint - Print letters, cooler.
 </h1>
 <p align="center">
 	tprint allows you to print letters in a cool way.<br>NOTE: This is for <b>MY</b> personal use, however, I am uploading it here incase anybody wants to check it out :P</br>
