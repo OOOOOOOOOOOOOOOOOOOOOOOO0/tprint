@@ -23,7 +23,7 @@ from tprint import *
 tprint(tprint.RED, "tprint is dope XD", 7)
 ```
 **Extras**
-```
+```python
 tprint.RED is the colour of the string.
 
 "tprint is dope XD" is the string.
