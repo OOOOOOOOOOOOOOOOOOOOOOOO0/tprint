@@ -8,7 +8,7 @@ setuptools.setup(
     url="https://github.com/execution/tprint",
     packages=["tprint"],
     license="",
-    install_requires="colorama",
+    install_requires=requirements,
     version=0.1,
     long_description="",
 )
