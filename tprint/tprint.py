@@ -1,8 +1,5 @@
 import sys, time, os
-try:
-    from colorama import Fore
-except ModuleNotFoundError:
-    os.system("python -m pip install colorama"))
+from colorama import Fore
 
 
 class tprint:
